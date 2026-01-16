@@ -10,7 +10,7 @@ Developed during my tenure as an **Associate Software Engineer Trainee** at **DE
 ## 📸 Screenshots
 | Game Logger | Game Start | Game Over |
 | :---: | :---: | :---: |
-| ![Logger](screenshots/Game_Logger.png) | ![Start](screenshots/Game_Start.png) | ![Over](screenshots/Game_Over.png) |
+| ![Logger](Screenshots/Game_Logger.png) | ![Start](Screenshots/Game_Start.png) | ![Over](Screenshots/Game_Over.png) |
 
 ## 🔧 Key Technical Competencies
 This project demonstrates the following C++ & GUI concepts:
